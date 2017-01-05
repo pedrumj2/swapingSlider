@@ -26,6 +26,6 @@ javascript code required to creating a swaping slider
           
 Once the main window has loaded call this:
 
-``` 
-var sliderSwap = new Slider_Swap("swap1");
+```
+    var sliderSwap = new Slider_Swap("swap1");
 ```
